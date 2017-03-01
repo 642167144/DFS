@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="DFS"
+  id="myeclipse.1462086457847"
+  context-root="/DFS"
+  j2ee-spec="1.7"
+  archive="DFS.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
